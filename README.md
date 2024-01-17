@@ -24,4 +24,4 @@ Welcome to my GitHub profile! I'm a dedicated data analyst with a passion for un
 
 If you're interested in collaborating on data-driven projects or have any exciting opportunities, feel free to reach out. Let's turn data into actionable insights together!
 
-#DataAnalysis #DataVisualization #ProblemSolving #SQL #Python
+#DataAnalysis #DataVisualization #ProblemSolving #SQL #Python #Excel #PowerBI
